@@ -1,9 +1,11 @@
-package net.kremlev.codewar.java.task;
+package net.nkremlev.codewar.java;
 
 import java.util.Arrays;
 
 /**
  * @see <a href="https://www.codewars.com/kata/5526fc09a1bbd946250002dc">Find The Parity Outlier</a>
+ *
+ * @author nkremlev
  */
 public final class FindThePartyOutlier {
 
